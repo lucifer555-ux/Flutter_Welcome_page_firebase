@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "802319493727",
+    "firebase_url": "https://gpd-augmented-info.firebaseio.com",
+    "project_id": "gpd-augmented-info",
+    "storage_bucket": "gpd-augmented-info.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802319493727:android:698877f273975d565109ea",
+        "android_client_info": {
+          "package_name": "com.example.nav_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802319493727-hlaefi5pa5ic2m84s4tj1udcqlpso34o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybdhG5LcLCmQaOMkrNh7pOGZmJkJMbFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802319493727-hlaefi5pa5ic2m84s4tj1udcqlpso34o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
